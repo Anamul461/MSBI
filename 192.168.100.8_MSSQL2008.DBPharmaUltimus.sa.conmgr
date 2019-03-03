@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="192.168.100.8_MSSQL2008.DBPharmaUltimus.sa"
+  DTS:DTSID="{19A91B49-18B2-4791-96FA-0F39F3D3AA88}"
+  DTS:CreationName="ADO.NET:System.Data.SqlClient.SqlConnection, System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=192.168.100.8\MSSQL2008;User ID=sa;Initial Catalog=DBPharmaUltimus;Application Name=SSIS-IISM-{19A91B49-18B2-4791-96FA-0F39F3D3AA88}192.168.100.8\MSSQL2008.DBPharmaUltimus.sa;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdADLOhGHkE+R19tu8Vo9oAAAAAACAAAAAAADZgAAwAAAABAAAADT9tavo1po8wHkCzptreYhAAAAAASAAACgAAAAEAAAANWDYMbX6+AmOjYnl3hq1Xt4AAAAFWXXLnFn1DnBgnfWE31VMDkIll+oumEOjOXc5nnq/TuDwSU5bQ+fpo3AjzWi+CSk3YH8bec8yige2vEUQ6mjTYjgdG/xA8f2236PG6tFIG/dOhw9rpOjNgaxSMBo8CwNdchU2ZGMb9JWshNK+m7NPiBZZPpBexj9FAAAALbVECxDzwz6rDTdRGEgaNLa1ZDb</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
